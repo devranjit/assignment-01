@@ -11,9 +11,13 @@
 }
 
 .main-div{
-    max-width: 100%;
+    max-width: 1200px;
     margin: 0  auto;
     padding: 0 150px;
+}
+
+.sec-div{
+    max-width: 1200px;
 }
 
 
@@ -76,7 +80,8 @@
 
 
 .hero-section img{
-    max-width: 150px;
+    max-width: 200px;
+    padding-bottom: 25px;;
 }
 
 .hero-section h1{
@@ -111,4 +116,36 @@
     text-decoration: none;
     font-size:15px ;
    
+}
+
+
+
+/* development code start here  */
+
+
+.dev-sec{
+    margin: 10% 0;
+}
+
+
+.dev-spec{
+    background-color: #fafafb;
+    padding: 50px;
+}
+.dev-spec h1{
+
+    font-size:30px ;
+    color: #0D1321;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.dev-spec p{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    padding-top: 20px;
+    text-align: center;
+    
 }
