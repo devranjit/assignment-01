@@ -169,6 +169,7 @@ text-decoration: none;
 .btn-pro{
     padding: 12px 20px;
     border: 1px #0D1321 solid;
+    margin-top: 15px;
     
 }
 
@@ -207,16 +208,38 @@ text-decoration: none;
     justify-items: auto;
 }
 
+.pro-one2{
+    margin-right: 5%;
+    text-align: left;
+    justify-items: auto;
+}
+
 .pro-two img{
     
 }
 
 .pro-box{
     display: flex;
-    margin: 48px auto;
+    /* margin: 48px; */
     background: linear-gradient(90deg, white 0%, rgba(255, 255, 255, 0) 100%);
-    padding: 50px;
+    padding: 48px;
+    align-items: center;
     
     
 }
 
+
+.pro-box2{
+    display: flex;
+    margin: px auto;
+    background: linear-gradient(270deg, white 0%, rgba(255, 255, 255, 0) 100%);
+    padding: 48px;
+    align-items: center;
+    
+    
+}
+
+
+.sep-img{
+    display: inline;
+}
