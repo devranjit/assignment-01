@@ -11,7 +11,7 @@
 }
 
 .main-div{
-    max-width: 1200px;
+    max-width: 100%;
     margin: 0  auto;
     padding: 0 150px;
 }
@@ -125,6 +125,7 @@
 
 .dev-sec{
     margin: 10% 0;
+    border-radius: 20px;
 }
 
 
@@ -149,3 +150,68 @@
     text-align: center;
     
 }
+
+
+
+/* developer process box code start  */
+
+
+.btn-pro a{
+font-size:20px ;
+font-weight: 600;
+color:#0D1321;
+text-decoration: none;
+
+}
+
+
+.btn-pro{
+    padding: 12px 20px;
+    border: 1px #0D1321 solid;
+    
+}
+
+.dev-process{
+    display: flex;
+}
+
+
+.dev-process h1{
+
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 20px;
+    color: rgba(13, 19, 33, 0.70);
+    text-align: left;
+    padding-top: 0px;
+    
+
+}
+
+
+.dev-process p{
+ color: #555964;
+ font-size: 16px;
+ font-weight: 400;
+ line-height: 20px;
+ text-align: left;
+ padding-bottom: 15px;
+}
+
+
+.pro-one{
+    margin-right: 10%;
+    text-align: left;
+    justify-items: auto;
+}
+
+.pro-two img{
+    
+}
+
+.pro-box{
+    display: flex;
+    padding: 50px;
+    margin: 0 auto;
+}
+
