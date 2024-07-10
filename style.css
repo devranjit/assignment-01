@@ -21,6 +21,14 @@
 }
 
 
+.glob-point{
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    word-wrap: break-word;
+    margin: 20px;
+}
 
 
 /* global css style ends here  */
@@ -246,3 +254,36 @@ text-decoration: none;
 .sep-img{
     display: inline;
 }
+
+
+
+
+/* inspiration section code start  */
+
+.ins-head{
+    text-align: center;
+    padding-top: 50px;
+
+
+
+}
+
+.ins-head h1{
+    font-size: 32px;
+    font-weight: 800;
+
+}
+
+
+.ins-video{
+    text-align: center;
+    border-radius: 16px;
+    border: 1px solid grey;
+    padding: 50px;
+}
+
+.ins-vid{
+    border-radius: 16px;
+    border: 1px rgba(150, 155, 167, 0.096) solid;
+}
+
